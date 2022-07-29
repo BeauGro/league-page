@@ -7,12 +7,11 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>In 2020, a group of owners from the Full Send Sunday redraft league got together and created the Full Send Dynasty to make their life of quarentine a little more exciting. Each year, the owners compete to win the Sender Cup and avoid the Raver Bowl. </p>
+  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritied youth and draft picks, while the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries, others bought the dip and built for the future.</p>
+  <p>With the majority of the original owners sticking around, the league has become a tight knit group of die hard fantasy football players looking to gain bragging rights over everyone else. The playoffs are as competitive as ever, and new teams are on the rise every year hoping to get a taste of the ultimate vicotry. </p>
+  <p>While the ultimate prize is bragging rights and sending obnoxious messages in the group chat for the next year, the winner also takes home $350 and a target on their back. Loser of the losers bracket takes home the Raver Bowl, named after an owner who caused the commissioner and the rest of the league a few too many headaches. </p>
+  <p>Check out our league blog for the latest in-depth articles on everything Full Send Dynasty!</p>
 `;
 
 /*   STEP 3   */
