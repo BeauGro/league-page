@@ -30,7 +30,7 @@ export const managers = [
       "ownerSince": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Wisconsin", // (optional)
       "bio": "They call me Back 2 Back Beau. Word on the street is a 3-Peat is impossible, but the street is wrong on this one. 2020 trophy in my left hand, 2021 trophy in my right hand, I might have a hard time picking up my phone to set my lineups this year.",
-      "photo": "/managers/Capture.png", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Capture.PNG", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "favoriteFood": taco,
